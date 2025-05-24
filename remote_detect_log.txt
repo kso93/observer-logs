@@ -1,0 +1,1623 @@
+[2025-05-20 14:17:18] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 14:17:37] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 14:18:31] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 14:31:00] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 14:51:09] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 15:35:54] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 16:05:57] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 16:37:25] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+DNS FAIL
+[2025-05-20 17:07:33] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 18:06:54] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 19:44:41] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 20:21:06] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 20:51:10] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+    "bssid": "02:16:78:55:33:c0",
+    "ssid": "Copy_2.4G-ext",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "64:20:e1:77:40:76",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "ee:7c:2c:99:37:b8",
+    "ssid": "Sunthorn",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "42:60:f9:6d:5f:30",
+    "ssid": "WiFi_Produciton",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "20:08:89:5c:8a:4f",
+    "ssid": "Uthai",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "d4:58:00:66:c5:86",
+    "ssid": "Delight_5G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "d4:ad:bd:64:73:82",
+    "ssid": "WFMA21",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "d4:ad:bd:64:73:85",
+    "ssid": "WFMB24",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "14:ca:56:f4:3c:1f",
+    "ssid": "Earth_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "fe:b9:70:6e:30:10",
+    "ssid": "HOP INN WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "d4:ad:bd:64:73:84",
+    "ssid": "DSNWL",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "3a:54:9b:97:00:75",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "0c:01:4b:48:8d:1f",
+    "ssid": "SMB32212_5G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0c:01:4b:48:8d:1e",
+    "ssid": "SMB32212_2.4G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "e4:66:ab:f9:5b:d5",
+    "ssid": "Big Boss_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "90:3f:7f:3c:d5:91",
+    "ssid": "Pinmook_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "14:2e:5e:24:fc:f5",
+    "ssid": "Nomhok_5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "9c:2b:a6:b2:9f:f1",
+    "ssid": "Justwash.asia",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "f8:2e:3f:17:dd:b0",
+    "ssid": "Kanya",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "6c:26:36:22:09:ec",
+    "ssid": "PT.nasawan",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "f8:2e:3f:17:dd:b3",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "74:08:de:0b:36:1e",
+    "ssid": "ING2.4G_2389KD076905",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][MFPC]"
+    "bssid": "bc:fd:0c:a6:b3:7b",
+    "ssid": "70mai_d06_b37b",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "36:5a:0d:6c:86:4d",
+    "ssid": "iPhone ของสัญชั",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "a4:04:50:f5:99:0b",
+    "ssid": "MYCARA40450F5990B",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "e4:66:ab:f7:dd:2b",
+    "ssid": "Big Boss_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "00:15:6d:2b:04:f7",
+    "ssid": "",
+    "capabilities": "[ESS]"
+    "bssid": "66:20:df:a3:02:43",
+    "ssid": "iPhone",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "40:86:cb:88:c5:c5",
+    "ssid": "Smart Home",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "66:20:e1:1b:f2:a6",
+    "ssid": "Organ_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0e:44:fa:cd:24:de",
+    "ssid": "OPPO A18",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "a0:09:2e:b0:95:e4",
+    "ssid": "e-cop2.4ghz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "3e:60:f9:6d:5f:30",
+    "ssid": "WiFi_Manager",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "fe:b9:70:6e:65:30",
+    "ssid": "HOP INN WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "70:f8:2b:db:a1:dd",
+    "ssid": "TOMNA",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "9c:9d:7e:75:86:0b",
+    "ssid": "Siriwoohoo",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c2:18:03:48:94:19",
+    "ssid": "DIRECT-19-HP M404dw LJ",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "ee:3c:e9:ce:6e:8e",
+    "ssid": "OPPO A60",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "14:22:33:65:12:49",
+    "ssid": "PUNPUN",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "6c:d8:19:0f:e9:ef",
+    "ssid": "FA13IANSKI_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "ba:54:69:b4:6b:e9",
+    "ssid": "พี่หมูฉึกๆ",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "02:31:f0:00:7a:9e",
+    "ssid": "OPPO A5x u3c8",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "64:20:e1:8b:f2:a6",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "dc:ef:80:1a:31:28",
+    "ssid": "Bourtong_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "fe:12:2c:d7:18:b8",
+    "ssid": "Front",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "5c:03:39:16:9a:34",
+    "ssid": "JIBSarakam",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "66:20:e1:9d:0b:ae",
+    "ssid": "7-11SERMTHAI_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0a:f6:06:96:eb:a7",
+    "ssid": "Netsphere_08F606CE8E3AB8",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "a2:0b:62:86:b6:e2",
+    "ssid": "AndroidAP",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "2c:97:b1:74:01:40",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "88:c3:97:c6:2b:4a",
+    "ssid": "Xiaomi_33FC",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "88:c3:97:c6:2b:4b",
+    "ssid": "Xiaomi_33FC_5G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "e4:47:b3:f1:e9:96",
+    "ssid": "True2.4gsub",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "64:20:e0:9f:b2:d7",
+    "ssid": "",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "ca:cd:55:39:5e:b2",
+    "ssid": "Wilasinee_3_2",
+    "capabilities": "[ESS]"
+    "bssid": "66:20:e1:1d:0b:ae",
+    "ssid": "7-11SERMTHAI",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:74:01:50",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "fe:f2:9f:a4:4b:de",
+    "ssid": "Upzeed",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "5a:b1:0f:88:98:6a",
+    "ssid": "AndroidAPD86A",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "9a:00:6a:68:b1:2a",
+    "ssid": "SSID7",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "14:eb:b6:d7:6e:e0",
+    "ssid": "TP-Link_AIS",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0c:d5:d3:c9:f1:e1",
+    "ssid": ".@ AIS SUPER WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "2a:77:77:71:c4:60",
+    "ssid": "",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "0c:d5:d3:c9:f1:e2",
+    "ssid": "PTT Station Free WIFI_AIS",
+    "capabilities": "[ESS]"
+    "bssid": "a6:f0:5e:0e:14:27",
+    "ssid": "OPPO F11",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "5c:3a:3d:96:fb:25",
+    "ssid": "Kanya_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:c2:f4:90",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "dc:ef:80:2a:ae:14",
+    "ssid": "Sakchai_5G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "dc:ef:80:2a:ae:17",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "d4:58:00:66:c5:8b",
+    "ssid": "Delight_2.4G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0c:d5:d3:c9:f1:e0",
+    "ssid": "  AIS SMART Login",
+    "capabilities": "[WPA2-EAP/SHA1-CCMP][RSN-EAP/SHA1-CCMP][ESS]"
+    "bssid": "98:00:6a:58:b1:2a",
+    "ssid": "Guuroti 5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "40:9b:cd:3b:4a:a0",
+    "ssid": "JANTAKEAT-2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "c2:25:a0:35:a6:7c",
+    "ssid": "みさとみか",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "16:ac:60:b0:81:af",
+    "ssid": "DIRECT-cdSP 230DNw_81af",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "6e:4c:98:30:6f:2e",
+    "ssid": "vivo Y33s",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "cc:50:0a:75:82:94",
+    "ssid": "Alice 5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "98:25:4a:a9:f0:77",
+    "ssid": "WashmeVM",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "dc:f8:b9:e2:46:b5",
+    "ssid": "Watchara2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "dc:f8:b9:e2:46:b6",
+    "ssid": "Watchara5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "74:da:88:d8:26:44",
+    "ssid": "Ptg-Station",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "a0:09:2e:b0:95:96",
+    "ssid": "IT_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "44:22:7c:f6:da:67",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "70:4d:7b:12:48:e4",
+    "ssid": "ASUS",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:c2:f4:80",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "dc:ef:80:2a:ae:10",
+    "ssid": "Sakchai_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "04:f3:52:19:9c:64",
+    "ssid": "PakPoo2562_2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "d4:ad:bd:64:a6:65",
+    "ssid": "WFMB24",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "e4:47:b3:c3:07:01",
+    "ssid": "TongTawee_5Ghz",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "d4:ad:bd:64:a6:64",
+    "ssid": "DSNWL",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "44:22:7c:f6:da:60",
+    "ssid": "Ldc mkm_2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "e4:47:b3:c3:07:00",
+    "ssid": "TongTawee_2.4Ghz",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "ca:cd:55:69:5e:b2",
+    "ssid": "Wilasinee2_2",
+    "capabilities": "[ESS]"
+    "bssid": "00:6b:f1:9d:29:6d",
+    "ssid": "WFMA21",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "62:7e:a4:ae:5d:ef",
+    "ssid": "chuangmi-hub-8E5DEF",
+    "capabilities": "[WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "cc:50:0a:d7:5a:0a",
+    "ssid": "SUngwien",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "d4:ad:bd:64:a6:62",
+    "ssid": "WFMA21",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "00:6b:f1:9d:29:6b",
+    "ssid": "DSNWL",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "44:22:7c:f6:da:63",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "04:f3:52:19:9c:68",
+    "ssid": "PakPoo2562_5GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "00:6b:f1:9d:29:6a",
+    "ssid": "WFMB24",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "44:22:7c:f6:da:64",
+    "ssid": "Ldc mkm_5GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "38:54:9b:07:00:74",
+    "ssid": "TipKanda02_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "04:f3:52:19:9c:67",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "cc:50:0a:75:82:90",
+    "ssid": "Alice 5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "ca:9f:1a:a7:70:a8",
+    "ssid": "BB Shop_2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "38:54:9b:07:00:75",
+    "ssid": "TipKanda02_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0a:5c:1b:06:e9:cc",
+    "ssid": "INTERNET168",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "20:08:89:8c:8a:50",
+    "ssid": "Uthai_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "e8:9c:25:5c:15:bc",
+    "ssid": "PT.Asus_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "00:0a:f5:f8:18:1c",
+    "ssid": "SmartSiteAP",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "c8:5a:9f:c6:2b:d4",
+    "ssid": "KITPRACHA_2G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "40:ee:15:6e:d2:f5",
+    "ssid": "Chonlatee resort",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][WPS][MFPC]"
+    "bssid": "ac:84:c6:d7:47:b0",
+    "ssid": "WiFi-TTG",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "66:20:e1:1d:6f:f6",
+    "ssid": "Race24_2.4GTrue",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "b4:5d:50:1f:f7:50",
+    "ssid": "   .@ TRUEWIFI",
+    "capabilities": "[ESS]"
+    "bssid": "ee:b9:70:6e:33:9f",
+    "ssid": "HOP INN WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "b6:84:c6:d7:47:b0",
+    "ssid": "WiFi_Produciton",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "b4:5d:50:1f:f7:52",
+    "ssid": "  .@ TrueHiSpeed",
+    "capabilities": "[ESS]"
+    "bssid": "b4:5d:50:1f:f7:51",
+    "ssid": "   .@ TrueMove H",
+    "capabilities": "[WPA2-EAP/SHA1-CCMP][RSN-EAP/SHA1-CCMP][ESS]"
+    "bssid": "6e:00:d6:3a:aa:08",
+    "ssid": "Galaxy A06 9838",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "3a:60:f9:6d:5f:30",
+    "ssid": "WiFi_Customer",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "98:00:6a:58:b1:28",
+    "ssid": "Guuroti",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "e8:9c:25:5c:15:b8",
+    "ssid": "PT.Asus_2.4",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "5c:62:8b:86:7a:06",
+    "ssid": "TANTONG1307",
+    "capabilities": "[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][ESS]"
+    "bssid": "66:20:e0:9f:b2:d6",
+    "ssid": "Suppaisan_5G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:c2:e3:f0",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "6e:f9:b7:35:b2:b7",
+    "ssid": "Galaxy A73 5G C459",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "e8:65:d4:e0:11:4c",
+    "ssid": "NOVA_1138",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "74:e9:bf:78:48:80",
+    "ssid": "Chaveewan 5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "ce:b9:70:6e:47:6d",
+    "ssid": "HOP INN WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "e8:02:8d:76:57:81",
+    "ssid": "Mahasan ice",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "a0:09:2e:b0:94:a0",
+    "ssid": "02_NTTOT_2G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "4a:d9:e7:6f:7e:44",
+    "ssid": "RMU-WiFi-15",
+    "capabilities": "[ESS]"
+    "bssid": "74:e9:bf:78:48:83",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "5a:9a:a8:89:1a:c5",
+    "ssid": "OPPO A5 2020",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "0e:01:4b:48:8d:1f",
+    "ssid": "",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "22:08:89:fc:8a:50",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "c2:9a:c9:e8:71:de",
+    "ssid": "OPPO A3x",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "6c:d8:19:27:a9:27",
+    "ssid": "Jaonai30_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "74:e9:bf:78:48:7c",
+    "ssid": "Chaveewan",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "74:e9:bf:78:48:7f",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "ca:cd:55:49:5e:b2",
+    "ssid": "Wilasinee_2_1",
+    "capabilities": "[ESS]"
+    "bssid": "3c:33:32:ea:50:a4",
+    "ssid": "Chonlatee resort",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][WPS][MFPC]"
+    "bssid": "f8:2e:3f:27:9e:b4",
+    "ssid": "TNTKTOYS_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "48:8f:5a:38:d1:4c",
+    "ssid": "VC MEAT DISTRIBUTION",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS]"
+    "bssid": "f0:9f:c2:ea:1d:cf",
+    "ssid": "YAMAHA_Academy",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "14:4d:67:23:ab:60",
+    "ssid": "Office Huareu 5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "e2:63:da:94:91:b5",
+    "ssid": "STAFF Oshinei_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "8c:79:09:5c:6b:90",
+    "ssid": "@ RMU-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "e2:63:da:94:91:b4",
+    "ssid": "STAFF Oshinei_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "6c:d8:19:9c:d5:6a",
+    "ssid": "Narongchai",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "64:20:e1:6d:0b:af",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "64:20:e1:6d:0b:ae",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "c6:42:68:17:3a:11",
+    "ssid": "DIRECT-Meeting-Room-304",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "8c:79:09:5c:6b:91",
+    "ssid": "@ Waroonbhat-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "9c:9d:7e:75:86:0c",
+    "ssid": "xiaomi_PT_AUDIO_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "42:86:cb:c8:c5:c5",
+    "ssid": "ReuanThong WiFi_5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:10:bb:30",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "cc:50:0a:d3:38:db",
+    "ssid": "VC.MEAT",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "ca:cd:55:59:5e:b2",
+    "ssid": "",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "8c:79:09:5c:48:90",
+    "ssid": "@ RMU-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "8c:79:09:5c:48:91",
+    "ssid": "@ Waroonbhat-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "6c:a5:d1:21:de:e9",
+    "ssid": "GTS2022-2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "48:8f:4c:19:be:d8",
+    "ssid": "HimesrDvr_19BED8",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-TKIP][ESS]"
+    "bssid": "2c:08:8c:d5:25:28",
+    "ssid": "IDEA 5G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "3c:33:32:ea:4f:de",
+    "ssid": "Chonlatee resort",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][WPS][MFPC]"
+    "bssid": "28:77:77:51:c4:5e",
+    "ssid": "Kaeng_Loengchan_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "84:07:fa:49:79:17",
+    "ssid": "Real1993",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "08:f6:06:97:eb:a7",
+    "ssid": "Kanchana_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "08:f6:06:97:eb:a6",
+    "ssid": "Kanchana",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "94:b2:71:2a:f6:e4",
+    "ssid": "BBauto_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c8:b6:d3:6e:b7:b8",
+    "ssid": "Prahyad",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "94:b2:71:2a:f6:e7",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "d8:83:32:c1:77:48",
+    "ssid": "DENGOPRO_4877c1",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "8c:79:09:5c:45:f1",
+    "ssid": "@ Waroonbhat-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "28:77:77:51:c5:30",
+    "ssid": "gsthainter",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "28:77:77:51:c4:60",
+    "ssid": "Kaeng_Loengchan_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c2:18:03:51:d9:03",
+    "ssid": "DIRECT-03-HP M404dw LJ",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c8:b5:ad:01:2c:b0",
+    "ssid": "   .@ TRUEWIFI",
+    "capabilities": "[ESS]"
+    "bssid": "c8:b6:d3:f3:0e:ec",
+    "ssid": "DAM_2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c8:b5:ad:01:2c:b1",
+    "ssid": "   .@ TrueMove H",
+    "capabilities": "[WPA2-EAP/SHA1-CCMP][RSN-EAP/SHA1-CCMP][ESS]"
+    "bssid": "c8:b5:ad:01:2c:b2",
+    "ssid": "  .@ TrueHiSpeed",
+    "capabilities": "[ESS]"
+    "bssid": "32:50:fd:9a:45:da",
+    "ssid": "IDEA FIBER_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "34:60:f9:6d:5f:30",
+    "ssid": "WiFi-TTG",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "e0:63:da:84:91:b5",
+    "ssid": "Oshinei Mahasarakham",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "2c:08:8c:d5:25:2c",
+    "ssid": "IDEA 2G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "d8:44:89:56:66:6c",
+    "ssid": "AIS-PTG",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][ESS]"
+    "bssid": "a4:18:75:c2:38:34",
+    "ssid": "DSNWL",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "66:20:e1:17:40:76",
+    "ssid": "Chaiyon_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "a4:18:75:c2:38:32",
+    "ssid": "WFMA21",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "44:27:f3:e5:fa:db",
+    "ssid": "70mai_A200_fadb",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "2c:97:b1:10:bc:30",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "c8:b5:ad:01:2c:a0",
+    "ssid": "   .@ TRUEWIFI",
+    "capabilities": "[ESS]"
+    "bssid": "c8:b5:ad:01:2c:a1",
+    "ssid": "   .@ TrueMove H",
+    "capabilities": "[WPA2-EAP/SHA1-CCMP][RSN-EAP/SHA1-CCMP][ESS]"
+    "bssid": "c8:b5:ad:01:2c:a2",
+    "ssid": "  .@ TrueHiSpeed",
+    "capabilities": "[ESS]"
+    "bssid": "2c:d2:6b:73:30:cb",
+    "ssid": "DDPAI_mola_N3_30CB",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "3a:72:c2:26:ae:69",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "64:20:e1:5d:6f:f6",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "9a:00:6a:58:b1:2a",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 21:21:47] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 21:51:52] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 22:21:55] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+    "bssid": "02:16:78:55:33:c0",
+    "ssid": "Copy_2.4G-ext",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "64:20:e1:77:40:76",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "ee:7c:2c:99:37:b8",
+    "ssid": "Sunthorn",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "42:60:f9:6d:5f:30",
+    "ssid": "WiFi_Produciton",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "20:08:89:5c:8a:4f",
+    "ssid": "Uthai",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "d4:58:00:66:c5:86",
+    "ssid": "Delight_5G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "d4:ad:bd:64:73:82",
+    "ssid": "WFMA21",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "d4:ad:bd:64:73:85",
+    "ssid": "WFMB24",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "14:ca:56:f4:3c:1f",
+    "ssid": "Earth_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "fe:b9:70:6e:30:10",
+    "ssid": "HOP INN WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "d4:ad:bd:64:73:84",
+    "ssid": "DSNWL",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "3a:54:9b:97:00:75",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "0c:01:4b:48:8d:1f",
+    "ssid": "SMB32212_5G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0c:01:4b:48:8d:1e",
+    "ssid": "SMB32212_2.4G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "e4:66:ab:f9:5b:d5",
+    "ssid": "Big Boss_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "90:3f:7f:3c:d5:91",
+    "ssid": "Pinmook_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "14:2e:5e:24:fc:f5",
+    "ssid": "Nomhok_5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "9c:2b:a6:b2:9f:f1",
+    "ssid": "Justwash.asia",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "f8:2e:3f:17:dd:b0",
+    "ssid": "Kanya",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "6c:26:36:22:09:ec",
+    "ssid": "PT.nasawan",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "f8:2e:3f:17:dd:b3",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "74:08:de:0b:36:1e",
+    "ssid": "ING2.4G_2389KD076905",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][MFPC]"
+    "bssid": "bc:fd:0c:a6:b3:7b",
+    "ssid": "70mai_d06_b37b",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "36:5a:0d:6c:86:4d",
+    "ssid": "iPhone ของสัญชั",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "1e:0c:3a:52:c0:8f",
+    "ssid": "OPPO A5 2020",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][MFPC]"
+    "bssid": "a4:04:50:f5:99:0b",
+    "ssid": "MYCARA40450F5990B",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "e4:66:ab:f7:dd:2b",
+    "ssid": "Big Boss_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "40:86:cb:89:9e:d9",
+    "ssid": "LG_obec2_2g",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][WPS][MFPC]"
+    "bssid": "00:15:6d:2b:04:f7",
+    "ssid": "",
+    "capabilities": "[ESS]"
+    "bssid": "66:20:df:a3:02:43",
+    "ssid": "iPhone",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "40:86:cb:88:c5:c5",
+    "ssid": "Smart Home",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "66:20:e1:1b:f2:a6",
+    "ssid": "Organ_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0e:44:fa:cd:24:de",
+    "ssid": "OPPO A18",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "a0:09:2e:b0:95:e4",
+    "ssid": "e-cop2.4ghz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "3e:60:f9:6d:5f:30",
+    "ssid": "WiFi_Manager",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "fe:b9:70:6e:65:30",
+    "ssid": "HOP INN WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "70:f8:2b:db:a1:dd",
+    "ssid": "TOMNA",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "9c:9d:7e:75:86:0b",
+    "ssid": "Siriwoohoo",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c2:18:03:48:94:19",
+    "ssid": "DIRECT-19-HP M404dw LJ",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "ee:3c:e9:ce:6e:8e",
+    "ssid": "OPPO A60",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "14:22:33:65:12:49",
+    "ssid": "PUNPUN",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "6c:d8:19:0f:e9:ef",
+    "ssid": "FA13IANSKI_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "ba:54:69:b4:6b:e9",
+    "ssid": "พี่หมูฉึกๆ",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "02:31:f0:00:7a:9e",
+    "ssid": "OPPO A5x u3c8",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "64:20:e1:8b:f2:a6",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "dc:ef:80:1a:31:28",
+    "ssid": "Bourtong_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "fe:12:2c:d7:18:b8",
+    "ssid": "Front",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "5c:03:39:16:9a:34",
+    "ssid": "JIBSarakam",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "66:20:e1:9d:0b:ae",
+    "ssid": "7-11SERMTHAI_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0a:f6:06:96:eb:a7",
+    "ssid": "Netsphere_08F606CE8E3AB8",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "a2:0b:62:86:b6:e2",
+    "ssid": "AndroidAP",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "2c:97:b1:74:01:40",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "88:c3:97:c6:2b:4a",
+    "ssid": "Xiaomi_33FC",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "88:c3:97:c6:2b:4b",
+    "ssid": "Xiaomi_33FC_5G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "e4:47:b3:f1:e9:96",
+    "ssid": "True2.4gsub",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "64:20:e0:9f:b2:d7",
+    "ssid": "",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "ca:cd:55:39:5e:b2",
+    "ssid": "Wilasinee_3_2",
+    "capabilities": "[ESS]"
+    "bssid": "66:20:e1:1d:0b:ae",
+    "ssid": "7-11SERMTHAI",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:74:01:50",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "fe:f2:9f:a4:4b:de",
+    "ssid": "Upzeed",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "5a:b1:0f:88:98:6a",
+    "ssid": "AndroidAPD86A",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "9a:00:6a:68:b1:2a",
+    "ssid": "SSID7",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "14:eb:b6:d7:6e:e0",
+    "ssid": "TP-Link_AIS",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0c:d5:d3:c9:f1:e1",
+    "ssid": ".@ AIS SUPER WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "2a:77:77:71:c4:60",
+    "ssid": "",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "0c:d5:d3:c9:f1:e2",
+    "ssid": "PTT Station Free WIFI_AIS",
+    "capabilities": "[ESS]"
+    "bssid": "a6:f0:5e:0e:14:27",
+    "ssid": "OPPO F11",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "5c:3a:3d:96:fb:25",
+    "ssid": "Kanya_2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:c2:f4:90",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "dc:ef:80:2a:ae:14",
+    "ssid": "Sakchai_5G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "dc:ef:80:2a:ae:17",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "d4:58:00:66:c5:8b",
+    "ssid": "Delight_2.4G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0c:d5:d3:c9:f1:e0",
+    "ssid": "  AIS SMART Login",
+    "capabilities": "[WPA2-EAP/SHA1-CCMP][RSN-EAP/SHA1-CCMP][ESS]"
+    "bssid": "98:00:6a:58:b1:2a",
+    "ssid": "Guuroti 5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "40:9b:cd:3b:4a:a0",
+    "ssid": "JANTAKEAT-2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "c2:25:a0:35:a6:7c",
+    "ssid": "みさとみか",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "16:ac:60:b0:81:af",
+    "ssid": "DIRECT-cdSP 230DNw_81af",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "6e:4c:98:30:6f:2e",
+    "ssid": "vivo Y33s",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "cc:50:0a:75:82:94",
+    "ssid": "Alice 5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "98:25:4a:a9:f0:77",
+    "ssid": "WashmeVM",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "dc:f8:b9:e2:46:b5",
+    "ssid": "Watchara2.4G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "dc:f8:b9:e2:46:b6",
+    "ssid": "Watchara5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "74:da:88:d8:26:44",
+    "ssid": "Ptg-Station",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "a0:09:2e:b0:95:96",
+    "ssid": "IT_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "44:22:7c:f6:da:67",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "70:4d:7b:12:48:e4",
+    "ssid": "ASUS",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:c2:f4:80",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "dc:ef:80:2a:ae:10",
+    "ssid": "Sakchai_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "04:f3:52:19:9c:64",
+    "ssid": "PakPoo2562_2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "d4:ad:bd:64:a6:65",
+    "ssid": "WFMB24",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "e4:47:b3:c3:07:01",
+    "ssid": "TongTawee_5Ghz",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "d4:ad:bd:64:a6:64",
+    "ssid": "DSNWL",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "44:22:7c:f6:da:60",
+    "ssid": "Ldc mkm_2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "e4:47:b3:c3:07:00",
+    "ssid": "TongTawee_2.4Ghz",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "ca:cd:55:69:5e:b2",
+    "ssid": "Wilasinee2_2",
+    "capabilities": "[ESS]"
+    "bssid": "00:6b:f1:9d:29:6d",
+    "ssid": "WFMA21",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "62:7e:a4:ae:5d:ef",
+    "ssid": "chuangmi-hub-8E5DEF",
+    "capabilities": "[WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "cc:50:0a:d7:5a:0a",
+    "ssid": "SUngwien",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "d4:ad:bd:64:a6:62",
+    "ssid": "WFMA21",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "00:6b:f1:9d:29:6b",
+    "ssid": "DSNWL",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "44:22:7c:f6:da:63",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "04:f3:52:19:9c:68",
+    "ssid": "PakPoo2562_5GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "00:6b:f1:9d:29:6a",
+    "ssid": "WFMB24",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "44:22:7c:f6:da:64",
+    "ssid": "Ldc mkm_5GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "38:54:9b:07:00:74",
+    "ssid": "TipKanda02_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "04:f3:52:19:9c:67",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "cc:50:0a:75:82:90",
+    "ssid": "Alice 5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "ca:9f:1a:a7:70:a8",
+    "ssid": "BB Shop_2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "38:54:9b:07:00:75",
+    "ssid": "TipKanda02_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "0a:5c:1b:06:e9:cc",
+    "ssid": "INTERNET168",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS][WPS]"
+    "bssid": "20:08:89:8c:8a:50",
+    "ssid": "Uthai_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "e8:9c:25:5c:15:bc",
+    "ssid": "PT.Asus_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:73:d1:00",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "00:0a:f5:f8:18:1c",
+    "ssid": "SmartSiteAP",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "c8:5a:9f:c6:2b:d4",
+    "ssid": "KITPRACHA_2G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "40:ee:15:6e:d2:f5",
+    "ssid": "Chonlatee resort",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][WPS][MFPC]"
+    "bssid": "ac:84:c6:d7:47:b0",
+    "ssid": "WiFi-TTG",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "66:20:e1:1d:6f:f6",
+    "ssid": "Race24_2.4GTrue",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "ee:b9:70:6e:33:9f",
+    "ssid": "HOP INN WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "b6:84:c6:d7:47:b0",
+    "ssid": "WiFi_Produciton",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "2c:97:b1:73:d1:10",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "6e:00:d6:3a:aa:08",
+    "ssid": "Galaxy A06 9838",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "3a:60:f9:6d:5f:30",
+    "ssid": "WiFi_Customer",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "98:00:6a:58:b1:28",
+    "ssid": "Guuroti",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "e8:9c:25:5c:15:b8",
+    "ssid": "PT.Asus_2.4",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "5c:62:8b:86:7a:06",
+    "ssid": "TANTONG1307",
+    "capabilities": "[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][ESS]"
+    "bssid": "66:20:e0:9f:b2:d6",
+    "ssid": "Suppaisan_5G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:c2:e3:f0",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "6e:f9:b7:35:b2:b7",
+    "ssid": "Galaxy A73 5G C459",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "e8:65:d4:e0:11:4c",
+    "ssid": "NOVA_1138",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS]"
+    "bssid": "74:e9:bf:78:48:80",
+    "ssid": "Chaveewan 5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "ce:b9:70:6e:47:6d",
+    "ssid": "HOP INN WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "e8:02:8d:76:57:81",
+    "ssid": "Mahasan ice",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "a0:09:2e:b0:94:a0",
+    "ssid": "02_NTTOT_2G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "4a:d9:e7:6f:7e:44",
+    "ssid": "RMU-WiFi-15",
+    "capabilities": "[ESS]"
+    "bssid": "74:e9:bf:78:48:83",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "5a:9a:a8:89:1a:c5",
+    "ssid": "OPPO A5 2020",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "0e:01:4b:48:8d:1f",
+    "ssid": "",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "22:08:89:fc:8a:50",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "c2:9a:c9:e8:71:de",
+    "ssid": "OPPO A3x",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "6c:d8:19:27:a9:27",
+    "ssid": "Jaonai30_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "74:e9:bf:78:48:7c",
+    "ssid": "Chaveewan",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "74:e9:bf:78:48:7f",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "ca:cd:55:49:5e:b2",
+    "ssid": "Wilasinee_2_1",
+    "capabilities": "[ESS]"
+    "bssid": "3c:33:32:ea:50:a4",
+    "ssid": "Chonlatee resort",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][WPS][MFPC]"
+    "bssid": "f8:2e:3f:27:9e:b4",
+    "ssid": "TNTKTOYS_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "48:8f:5a:38:d1:4c",
+    "ssid": "VC MEAT DISTRIBUTION",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS][WPS]"
+    "bssid": "f0:9f:c2:ea:1d:cf",
+    "ssid": "YAMAHA_Academy",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "14:4d:67:23:ab:60",
+    "ssid": "Office Huareu 5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "e2:63:da:94:91:b5",
+    "ssid": "STAFF Oshinei_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "8c:79:09:5c:6b:90",
+    "ssid": "@ RMU-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "e2:63:da:94:91:b4",
+    "ssid": "STAFF Oshinei_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "6c:d8:19:9c:d5:6a",
+    "ssid": "Narongchai",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "64:20:e1:6d:0b:af",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "64:20:e1:6d:0b:ae",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "c6:42:68:17:3a:11",
+    "ssid": "DIRECT-Meeting-Room-304",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "8c:79:09:5c:6b:91",
+    "ssid": "@ Waroonbhat-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "9c:9d:7e:75:86:0c",
+    "ssid": "xiaomi_PT_AUDIO_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "42:86:cb:c8:c5:c5",
+    "ssid": "ReuanThong WiFi_5G",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "2c:97:b1:10:bb:30",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "cc:50:0a:d3:38:db",
+    "ssid": "VC.MEAT",
+    "capabilities": "[WPA-PSK-TKIP+CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "ca:cd:55:59:5e:b2",
+    "ssid": "",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "8c:79:09:5c:48:90",
+    "ssid": "@ RMU-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "8c:79:09:5c:48:91",
+    "ssid": "@ Waroonbhat-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "6c:a5:d1:21:de:e9",
+    "ssid": "GTS2022-2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "48:8f:4c:19:be:d8",
+    "ssid": "HimesrDvr_19BED8",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-TKIP][ESS]"
+    "bssid": "2c:08:8c:d5:25:28",
+    "ssid": "IDEA 5G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "3c:33:32:ea:4f:de",
+    "ssid": "Chonlatee resort",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][WPS][MFPC]"
+    "bssid": "28:77:77:51:c4:5e",
+    "ssid": "Kaeng_Loengchan_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "84:07:fa:49:79:17",
+    "ssid": "Real1993",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "08:f6:06:97:eb:a7",
+    "ssid": "Kanchana_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "08:f6:06:97:eb:a6",
+    "ssid": "Kanchana",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "94:b2:71:2a:f6:e4",
+    "ssid": "BBauto_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c8:b6:d3:6e:b7:b8",
+    "ssid": "Prahyad",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "94:b2:71:2a:f6:e7",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "d8:83:32:c1:77:48",
+    "ssid": "DENGOPRO_4877c1",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "8c:79:09:5c:45:f1",
+    "ssid": "@ Waroonbhat-WiFi",
+    "capabilities": "[ESS]"
+    "bssid": "28:77:77:51:c5:30",
+    "ssid": "gsthainter",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "28:77:77:51:c4:60",
+    "ssid": "Kaeng_Loengchan_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c2:18:03:51:d9:03",
+    "ssid": "DIRECT-03-HP M404dw LJ",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c8:b5:ad:01:2c:b0",
+    "ssid": "   .@ TRUEWIFI",
+    "capabilities": "[ESS]"
+    "bssid": "c8:b6:d3:f3:0e:ec",
+    "ssid": "DAM_2.4GHz",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "c8:b5:ad:01:2c:b1",
+    "ssid": "   .@ TrueMove H",
+    "capabilities": "[WPA2-EAP/SHA1-CCMP][RSN-EAP/SHA1-CCMP][ESS]"
+    "bssid": "c8:b5:ad:01:2c:b2",
+    "ssid": "  .@ TrueHiSpeed",
+    "capabilities": "[ESS]"
+    "bssid": "32:50:fd:9a:45:da",
+    "ssid": "IDEA FIBER_5G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "34:60:f9:6d:5f:30",
+    "ssid": "WiFi-TTG",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][WPA-PSK-CCMP+TKIP][ESS]"
+    "bssid": "2c:08:8c:d5:25:2c",
+    "ssid": "IDEA 2G",
+    "capabilities": "[WPA-PSK-CCMP][WPA2-PSK-TKIP+CCMP][RSN-PSK-TKIP+CCMP][ESS][WPS]"
+    "bssid": "d8:44:89:56:66:6c",
+    "ssid": "AIS-PTG",
+    "capabilities": "[WPA2-PSK-CCMP+TKIP][RSN-PSK-CCMP+TKIP][ESS]"
+    "bssid": "a4:18:75:c2:38:34",
+    "ssid": "DSNWL",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "66:20:e1:17:40:76",
+    "ssid": "Chaiyon_2.4G",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS][WPS]"
+    "bssid": "a4:18:75:c2:38:32",
+    "ssid": "WFMA21",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "44:27:f3:e5:fa:db",
+    "ssid": "70mai_A200_fadb",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "2c:97:b1:10:bc:30",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "c8:b5:ad:01:2c:a0",
+    "ssid": "   .@ TRUEWIFI",
+    "capabilities": "[ESS]"
+    "bssid": "c8:b5:ad:01:2c:a1",
+    "ssid": "   .@ TrueMove H",
+    "capabilities": "[WPA2-EAP/SHA1-CCMP][RSN-EAP/SHA1-CCMP][ESS]"
+    "bssid": "c8:b5:ad:01:2c:a2",
+    "ssid": "  .@ TrueHiSpeed",
+    "capabilities": "[ESS]"
+    "bssid": "2c:d2:6b:73:30:cb",
+    "ssid": "DDPAI_mola_N3_30CB",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "3a:72:c2:26:ae:69",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][WPA-PSK-CCMP][ESS]"
+    "bssid": "64:20:e1:5d:6f:f6",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "9a:00:6a:58:b1:2a",
+    "ssid": "",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 22:52:00] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 23:22:04] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-20 23:52:07] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 00:22:12] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 00:52:17] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 01:25:15] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 01:57:30] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 02:27:35] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 02:57:39] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 03:27:43] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+    "bssid": "40:86:cb:89:9e:d9",
+    "ssid": "LG_obec2_2g",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][WPS][MFPC]"
+    "bssid": "2c:97:b1:74:01:40",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+    "bssid": "a6:f0:5e:0e:14:27",
+    "ssid": "OPPO F11",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK-CCMP][ESS]"
+    "bssid": "56:5e:67:31:7b:c9",
+    "ssid": "realme Note 50",
+    "capabilities": "[WPA2-PSK-CCMP][RSN-PSK+SAE-CCMP][ESS][MFPC]"
+    "bssid": "2c:97:b1:73:d1:00",
+    "ssid": "TH Wi-Fi by NBTC",
+    "capabilities": "[ESS]"
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 03:57:48] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 04:27:52] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 05:04:57] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 05:48:34] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 06:34:35] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 07:20:07] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 08:08:06] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 08:47:39] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 09:17:44] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 10:05:28] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 10:41:30] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 11:11:34] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 11:41:40] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 12:11:45] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 12:42:01] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 13:12:06] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 13:42:10] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 14:12:15] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 14:42:19] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+DNS FAIL
+[2025-05-21 15:12:27] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 15:42:31] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 16:12:36] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 16:42:40] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 17:14:17] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 17:44:23] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 18:14:31] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 18:44:37] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 19:33:33] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 20:03:37] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 20:33:43] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 21:03:49] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 21:33:53] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 22:03:58] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 22:34:02] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 23:04:06] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-21 23:34:10] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 00:04:14] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 00:34:18] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 01:06:43] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 01:36:54] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 02:22:51] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 03:07:21] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 03:37:26] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 04:07:30] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 04:37:34] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 05:07:38] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 05:37:42] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 06:07:46] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 06:37:50] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 07:07:55] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 07:41:08] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 08:28:57] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 09:01:03] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-22 21:20:08] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+[2025-05-23 08:24:39] ตรวจสอบการเชื่อมต่อ...
+>> Wi-Fi scan:
+>> Bluetooth devices:
+>> Active network ports:
+>> DNS Test:
+DNS FAIL
