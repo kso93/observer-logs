@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Observer Form</title>
+</head>
+<body>
+  <h2>Observer Feedback Form</h2>
+  <form id="observerForm">
+    <label for="name">Name:</label><br />
+    <input type="text" id="name" name="name" required /><br />
+    <label for="email">Email:</label><br />
+    <input type="email" id="email" name="email" required /><br />
+    <label for="message">Message:</label><br />
+    <textarea id="message" name="message" required></textarea><br /><br />
+    <button type="submit">Send</button>
+  </form>
+  <p id="response"></p>
+
+  <script>
+    const form = document.getElementById('observerForm');
+    const webhookURL = "https://discord.com/api/webhooks/1384066823997095957/YXy0URjXWXWE4OHc6EZv_1ZD4LlY3g_DdtsWlxq2CWOEj7E4oq1I78m68MK0hLKTDTKf";
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const data = {
+        content: "**📩 Observer Feedback**\\n" +
+                 `👤 Name: ${form.name.value}\\n` +
+                 `📧 Email: ${form.email.value}\\n` +
+                 `📝 Message: ${form.message.value}`
+      };
+
+      const response = await fetch(webhookURL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(data)
+      });
+
+      if (response.ok) {
+        document.getElementById("response").innerText = "✅ Submitted successfully!";
+        form.reset();
+      } else {
+        document.getElementById("response").innerText = "❌ Submission failed.";
+      }
+    });
+  </script>
+</body>
+</html>
