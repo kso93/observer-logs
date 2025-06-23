@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kingman Observer Form</title>
+</head>
+<body>
+    <h2>แจ้งข้อมูลผู้สังเกตการณ์</h2>
+    <form id="observerForm">
+        <label for="name">ชื่อ:</label><br>
+        <input type="text" id="name" name="name" required><br>
+        <label for="email">อีเมล:</label><br>
+        <input type="email" id="email" name="email" required><br>
+        <label for="message">ข้อความ:</label><br>
+        <textarea id="message" name="message" required></textarea><br><br>
+        <button type="submit">ส่งข้อมูล</button>
+    </form>
+
+    <p id="response"></p>
+
+    <script>
+        const form = document.getElementById('observerForm');
+        const webhookURL = "https://discord.com/api/webhooks/1384066823997095957/YXy0URjXWXWE4OHc6EZv_1ZD4LlY3g_DdtsWlxq2CWOEj7E4oq1I78m68MK0hLKTDTKf";
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const data = {
+                content: "**📩 แบบฟอร์มจากผู้สังเกตการณ์ใหม่:**\n" +
+                         `👤 ชื่อ: ${form.name.value}\n` +
+                         `📧 อีเมล: ${form.email.value}\n` +
+                         `📝 ข้อความ: ${form.message.value}`
+            };
+
+            const response = await fetch(webhookURL, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(data)
+            });
+
+            if (response.ok) {
+                document.getElementById("response").innerText = "✅ ส่งข้อมูลสำเร็จแล้ว!";
+                form.reset();
+            } else {
+                document.getElementById("response").innerText = "❌ เกิดข้อผิดพลาดในการส่งข้อมูล";
+            }
+        });
+    </script>
+</body>
+</html>
